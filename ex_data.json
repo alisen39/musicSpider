@@ -1,0 +1,25 @@
+{
+  "status":200,
+  "data":[
+    {
+      "name":"葡萄成熟时",
+      "singer":"陈奕迅",
+      "album":"u87",
+      "time":"3分48秒",
+      "platform":[
+        {
+          "id":"123456",
+          "ptname":"网易云音乐",
+          "status":1, // 0 不可播放  1 可播放，付费下载  2 可播放，可免费下载 3 付费播放下载
+          "src":"https://sadfs.sadf/asdf.mp3"
+        },
+        {"qq":1},
+        {"kugou":1},
+        {"kuwo":1},
+        {"xiami":1}
+      ]
+
+    },
+    {}
+  ]
+}

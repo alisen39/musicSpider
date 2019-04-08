@@ -1,0 +1,28 @@
+1538694879578	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alisen\\AppData\\Local\\Temp\\rust_mozprofile.N4qQJCh1RHge"
+1538694882972	Marionette	INFO	Listening on port 51277
+1538694883050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538694883127	Marionette	DEBUG	[6442450945] Frame script loaded
+1538694883146	Marionette	DEBUG	[6442450945] Frame script registered
+1538694883216	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538694883621	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538694884214	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://y.qq.com/
+1538694887702	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://y.qq.com/
+[Parent 15208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/widgets/tooltip/HTMLTooltip.js, line 528: TypeError: node.ownerDocument is null
+[Parent 15208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build1538695090845	Marionette	DEBUG	[6442450945] Frame script loaded
+1538695090860	Marionette	DEBUG	[64424509[Parent 15208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe1538695091301	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:b
+###!1538695092174	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://y.qq.com/
+1538695095043	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://y.qq.com/
+[Parent 14980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1538695119822	Marionette	INFO	Stopped listening on port 51459
+[GPU 149
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
